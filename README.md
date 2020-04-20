@@ -1,3 +1,2 @@
 # hello-world
-first repository n/
-trying to learn unity
+first repository, trying to learn unity
